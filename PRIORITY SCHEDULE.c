@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 void sswap(int*a,int*b)
 {
 	int temp=*a;
