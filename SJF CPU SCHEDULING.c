@@ -20,6 +20,7 @@ int main()
 			if(bt[j]<bt[pos])
 			pos=j;
 		}
+		
 		temp=bt[i];
 		bt[i]=bt[pos];
 		bt[pos]=temp;
