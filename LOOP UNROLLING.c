@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 void before();
 void after();
